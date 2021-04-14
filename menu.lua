@@ -4,7 +4,7 @@ TriggerEvent('esx:getSharedObject', function(obj)
 end)
 
 local MenuOpen = false
-local TmsMenuMeteo = RageUI.CreateMenu("Menu Météo", "~y~Sun~w~Rise Cotrole le temps du server")
+local TmsMenuMeteo = RageUI.CreateMenu("Menu Météo", "Cotrole le temps du server")
 TmsMenuMeteo:SetRectangleBanner(42, 48, 48, 255)
 local heure =  RageUI.CreateSubMenu(TmsMenuMeteo,'Heure', "Change l'heure")
 heure:SetRectangleBanner(42, 48, 48, 255)

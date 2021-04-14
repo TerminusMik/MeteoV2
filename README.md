@@ -32,6 +32,8 @@ Tous les personne ayant son steam id dans la liste pourra éxécuter toutes les 
 
 J'espère qu'il va vous plaire 
 
+https://cdn.discordapp.com/attachments/819253172093976576/831928586079567973/unknown.png
+
 
 ------------------------------ Terminus-Mik#4576 ------------------------------
 

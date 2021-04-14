@@ -1,5 +1,6 @@
-Mon discord : https://discord.gg/2QX5pUD3Uk
+------------------------------ Terminus-Mik#4576 ------------------
 
+Mon discord : https://discord.gg/2QX5pUD3Uk
 
 
 Bonjours/Bonsoirs 
@@ -32,8 +33,5 @@ Tous les personne ayant son steam id dans la liste pourra éxécuter toutes les 
 J'espère qu'il va vous plaire 
 
 
-#####################################################
-############ BY Terminus-Mik#4576 ###################
-#####################################################
 
 

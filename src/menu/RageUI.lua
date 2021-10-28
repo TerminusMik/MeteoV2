@@ -1,11 +1,5 @@
 
 
-print("")
-print("^5Crée par : Terminus-Mik#4576^0")
-print("^3Pour : SunRise V4.^0")
-print("https://discord.gg/z65Q3hCm9b")
-print("")
-
 
 
 
